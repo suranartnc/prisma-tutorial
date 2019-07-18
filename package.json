@@ -1,0 +1,8 @@
+{
+  "name": "prisma-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/suranartnc/prisma-tutorial.git",
+  "author": "Suranart Niamcome <suranartnc@gmail.com>",
+  "license": "MIT"
+}
